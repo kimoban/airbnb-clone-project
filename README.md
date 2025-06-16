@@ -1,4 +1,5 @@
-## airbnb-clone-project
+# airbnb-clone-project
+
 This project is a full-stack clone of the popular accommodation booking platform AirBnB. The goal is to build a functional web application that allows users to browse property listings, view detailed property information, and complete bookings. The project will cover frontend development, backend APIs, database design, and deployment.
 
 ## Airbnb Clone Project
@@ -6,8 +7,6 @@ This project is a full-stack clone of the popular accommodation booking platform
 ## Project Overview
 
 This is a full-stack clone of the popular accommodation booking platform Airbnb. The goal is to create a functional web application where users can search property listings, view detailed information, and complete bookings. This project will include frontend and backend development, UI/UX design, database integration, and deployment.
-
----
 
 ## Tech Stack
 
@@ -17,8 +16,6 @@ This is a full-stack clone of the popular accommodation booking platform Airbnb.
 - **Version Control**: Git & GitHub
 - **Design**: Figma
 - **Deployment**: Netlify / Vercel (Frontend), Render / Heroku (Backend)
-
----
 
 ## UI/UX Design Planning
 
@@ -48,8 +45,6 @@ This is a full-stack clone of the popular accommodation booking platform Airbnb.
 
 A well-designed booking system reduces friction, increases conversion rates, and improves customer satisfaction. Clear navigation, responsive design, and accessible layouts are essential.
 
----
-
 ## Figma Design Specifications
 
 ### Color Styles
@@ -71,8 +66,6 @@ A well-designed booking system reduces friction, increases conversion rates, and
 
 Understanding mockup design properties ensures consistency between design and development. Identifying color styles and typography from Figma helps translate visual designs into functional components accurately.
 
----
-
 ## Project Roles and Responsibilities
 
 | Role              | Responsibilities                                                                 |
@@ -85,8 +78,6 @@ Understanding mockup design properties ensures consistency between design and de
 | DevOps Engineers  | Set up CI/CD pipeline, manage deployment and server environment                  |
 | Product Owner     | Define feature requirements and ensure value delivery                            |
 | Scrum Master      | Facilitate sprints, remove blockers, coordinate team rituals                     |
-
----
 
 ## UI Component Patterns
 
@@ -109,11 +100,9 @@ Understanding mockup design properties ensures consistency between design and de
 
 Each component will follow reusability best practices and be integrated into a component-based React structure.
 
----
-
 ## Manual Review Task
 
-Repository: [airbnb-clone-project](https://github.com/your-username/airbnb-clone-project)
+Repository: [airbnb-clone-project](https://github.com/kimoban/airbnb-clone-project)
 
 - [x] Initialized with `README.md`
 - [x] UI/UX goals and design documented
@@ -121,11 +110,8 @@ Repository: [airbnb-clone-project](https://github.com/your-username/airbnb-clone
 - [x] Component patterns listed
 - [x] Color and typography specs from Figma included
 
----
-
 ## Folder Structure (Planned)
 
-```
 airbnb-clone-project/
 ├── public/
 ├── src/
@@ -140,4 +126,3 @@ airbnb-clone-project/
 │   ├── App.js
 │   └── index.js
 └── README.md
-```
