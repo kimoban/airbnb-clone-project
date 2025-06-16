@@ -1,7 +1,7 @@
-# airbnb-clone-project
+## airbnb-clone-project
 This project is a full-stack clone of the popular accommodation booking platform AirBnB. The goal is to build a functional web application that allows users to browse property listings, view detailed property information, and complete bookings. The project will cover frontend development, backend APIs, database design, and deployment.
 
-# Airbnb Clone Project
+## Airbnb Clone Project
 
 ## Project Overview
 
@@ -9,7 +9,7 @@ This is a full-stack clone of the popular accommodation booking platform Airbnb.
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 
 - **Frontend**: HTML, CSS, JavaScript (React)
 - **Backend**: Node.js, Express (optional)
@@ -20,23 +20,23 @@ This is a full-stack clone of the popular accommodation booking platform Airbnb.
 
 ---
 
-## ✨ UI/UX Design Planning
+## UI/UX Design Planning
 
-### 🎯 Design Goals
+### Design Goals
 
 - Create intuitive booking flow
 - Maintain visual consistency
 - Ensure fast loading times
 - Prioritize mobile responsiveness
 
-### 🚀 Key Features
+### Key Features
 
 - Property search and filtering
 - Detailed property viewing
 - Secure checkout process
 - User authentication
 
-### 📄 Primary Pages
+### Primary Pages
 
 | Page                  | Description                                                             |
 |-----------------------|--------------------------------------------------------------------------|
@@ -44,15 +44,15 @@ This is a full-stack clone of the popular accommodation booking platform Airbnb.
 | Listing Detailed View | Complete property details with images and booking form                  |
 | Simple Checkout View  | Streamlined payment and booking confirmation                            |
 
-### 🧠 Importance of User-Friendly Design
+### Importance of User-Friendly Design
 
 A well-designed booking system reduces friction, increases conversion rates, and improves customer satisfaction. Clear navigation, responsive design, and accessible layouts are essential.
 
 ---
 
-## 🎨 Figma Design Specifications
+## Figma Design Specifications
 
-### 🎨 Color Styles
+### Color Styles
 
 - **Primary**: #FF5A5F
 - **Secondary**: #008489
@@ -60,20 +60,20 @@ A well-designed booking system reduces friction, increases conversion rates, and
 - **Text**: #222222
 - **Secondary Text**: #717171
 
-### ✍️ Typography
+### Typography
 
 - **Primary Font**: Circular
 - **Headings**: Bold (700), 24px–32px
 - **Body Text**: Medium (500), 16px
 - **Secondary Text**: Book (400), 14px
 
-### 🧾 Importance of Identifying Design Properties
+### Importance of Identifying Design Properties
 
 Understanding mockup design properties ensures consistency between design and development. Identifying color styles and typography from Figma helps translate visual designs into functional components accurately.
 
 ---
 
-## 👥 Project Roles and Responsibilities
+## Project Roles and Responsibilities
 
 | Role              | Responsibilities                                                                 |
 |-------------------|----------------------------------------------------------------------------------|
@@ -88,7 +88,7 @@ Understanding mockup design properties ensures consistency between design and de
 
 ---
 
-## 🧩 UI Component Patterns
+## UI Component Patterns
 
 ### Planned Components:
 
@@ -111,7 +111,7 @@ Each component will follow reusability best practices and be integrated into a c
 
 ---
 
-## ✅ Manual Review Task
+## Manual Review Task
 
 Repository: [airbnb-clone-project](https://github.com/your-username/airbnb-clone-project)
 
@@ -123,7 +123,7 @@ Repository: [airbnb-clone-project](https://github.com/your-username/airbnb-clone
 
 ---
 
-## 📁 Folder Structure (Planned)
+## Folder Structure (Planned)
 
 ```
 airbnb-clone-project/
