@@ -180,13 +180,19 @@ Features: Post and manage reviews for properties.
 
 ## Importance
 Protects user data and personal information.
+
 Prevents unauthorized access and tampering.
+
 Ensures financial transactions are secure.
 
 ## CI/CD Pipeline
 What is CI/CD?
+
 CI/CD (Continuous Integration / Continuous Deployment) automates testing and deployment of code, improving reliability and development speed.
+
 ### Tools Used
 GitHub Actions: Automates tests on pull requests and pushes.
+
 Docker: Ensures the app runs in consistent environments across dev and prod.
+
 Docker Compose: For managing multi-container services like Django, Redis, and PostgreSQL.
