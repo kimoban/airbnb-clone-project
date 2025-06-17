@@ -32,7 +32,7 @@ This is a full-stack clone of the popular accommodation booking platform Airbnb.
 ### Primary Pages
 
 | Page                  | Description                                                             |
-|-----------------------|--------------------------------------------------------------------------|
+|-----------------------|-------------------------------------------------------------------------|
 | Property Listing View | Grid display of available properties with filters                       |
 | Listing Detailed View | Complete property details with images and booking form                  |
 | Simple Checkout View  | Streamlined payment and booking confirmation                            |
@@ -67,8 +67,8 @@ Understanding mockup design properties ensures consistency between design and de
 | Role              | Responsibilities                                                                 |
 |-------------------|----------------------------------------------------------------------------------|
 | Project Manager   | Oversees timelines, coordinates team, and tracks progress                        |
-| Frontend Developers | Build UI components, ensure responsive and accessible design                  |
-| Backend Developers | Create APIs, manage business logic and data flow                               |
+| Frontend Developers | Build UI components, ensure responsive and accessible design                   |
+| Backend Developers | Create APIs, manage business logic and data flow                                |
 | Designers         | Create mockups, define UI patterns, and ensure alignment with design goals       |
 | QA/Testers        | Write test cases, perform unit/integration testing, report bugs                  |
 | DevOps Engineers  | Set up CI/CD pipeline, manage deployment and server environment                  |
@@ -96,6 +96,7 @@ Understanding mockup design properties ensures consistency between design and de
 
 Each component will follow reusability best practices and be integrated into a component-based React structure.
 
+# BE
 # Airbnb Clone Project
 
 ## Project Overview
@@ -147,31 +148,24 @@ Endpoints: /reviews/, /reviews/{review_id}/
 Features: Post and manage reviews for properties.
 
 ## Feature Breakdown
-User Management: Allows users to register, log in, and manage profiles securely.
-Property Management: Hosts can list, update, and delete their rental properties.
-Booking System: Enables guests to reserve properties with check-in/out details.
-Payment Processing: Securely handles booking payments and logs transaction details.
-Review System: Users can leave reviews and rate their stays.
-Optimized Performance: Indexing and caching boost speed and reduce server load.
+**User Management**: Allows users to register, log in, and manage profiles securely.
+**Property Management**: Hosts can list, update, and delete their rental properties.
+**Booking System**: Enables guests to reserve properties with check-in/out details.
+**Payment Processing**: Securely handles booking payments and logs transaction details.
+**Review System**: Users can leave reviews and rate their stays.
+**Optimized Performance**: Indexing and caching boost speed and reduce server load.
 
 ## API Security
-Key Security Measures:
-Authentication: Token-based (JWT) login for users.
-
-Authorization: Ensures users only access their resources (e.g., bookings).
-
-Rate Limiting: Prevents brute-force and abuse of endpoints.
-
-Input Validation: Protects against SQL injection and XSS.
-
-Secure Payments: Sensitive data is handled securely via HTTPS and payment gateway encryption.
+### Key Security Measures:
+**Authentication**: Token-based (JWT) login for users.
+**Authorization**: Ensures users only access their resources (e.g., bookings).
+**Rate Limiting**: Prevents brute-force and abuse of endpoints.
+**Input Validation**: Protects against SQL injection and XSS.
+**Secure Payments**: Sensitive data is handled securely via HTTPS and payment gateway encryption.
 
 ## Importance
-
 Protects user data and personal information.
-
 Prevents unauthorized access and tampering.
-
 Ensures financial transactions are secure.
 
 ## CI/CD Pipeline
