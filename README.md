@@ -129,38 +129,53 @@ GitHub Actions:	Automates tests and deployments (CI/CD).
 ## Database Design
 ### User Authentication
 Endpoints: /users/, /users/{user_id}/
+
 Features: Register new users, authenticate, and manage user profiles.
 
 ### Property Management
 Endpoints: /properties/, /properties/{property_id}/
+
 Features: Create, update, retrieve, and delete property listings.
 
 ### Booking System
 Endpoints: /bookings/, /bookings/{booking_id}/
+
 Features: Make, update, and manage bookings, including check-in and check-out details.
 
 ### Payment Processing
 Endpoints: /payments/
+
 Features: Handle payment transactions related to bookings.
 
 ### Review System
 Endpoints: /reviews/, /reviews/{review_id}/
+
 Features: Post and manage reviews for properties.
 
 ## Feature Breakdown
 **User Management**: Allows users to register, log in, and manage profiles securely.
+
 **Property Management**: Hosts can list, update, and delete their rental properties.
+
 **Booking System**: Enables guests to reserve properties with check-in/out details.
+
 **Payment Processing**: Securely handles booking payments and logs transaction details.
+
 **Review System**: Users can leave reviews and rate their stays.
+
 **Optimized Performance**: Indexing and caching boost speed and reduce server load.
 
 ## API Security
 ### Key Security Measures:
+
 **Authentication**: Token-based (JWT) login for users.
+
 **Authorization**: Ensures users only access their resources (e.g., bookings).
+
 **Rate Limiting**: Prevents brute-force and abuse of endpoints.
+
 **Input Validation**: Protects against SQL injection and XSS.
+
 **Secure Payments**: Sensitive data is handled securely via HTTPS and payment gateway encryption.
 
 ## Importance
