@@ -1,4 +1,4 @@
-# Airbnb-Clone-Project
+# Airbnb-Clone-Project Front Ene
 
 ## Project Overview
 
@@ -96,8 +96,8 @@ Understanding mockup design properties ensures consistency between design and de
 
 Each component will follow reusability best practices and be integrated into a component-based React structure.
 
-# BE
-# Airbnb Clone Project
+
+# Airbnb Clone Project Back End
 
 ## Project Overview
 The Airbnb Clone Project backend is built to simulate a real-world booking platform. It focuses on user management, property listings, bookings, payments, and reviews. This project is designed using modern backend technologies with a focus on scalability, security, and API-first development.
